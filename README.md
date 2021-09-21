@@ -1,4 +1,4 @@
-# centerRemove.swift
+# removeSoundCentral.swift
 This code cancels out the center part of the stereo sound source by inversion processing. 
 
 It only works in the local environment. 
@@ -16,3 +16,6 @@ If we can separate the stereo sound source into mono and play it back while alwa
 The sample sound is a free sound source from a circle I belong to.
 
 [https://youtu.be/IMLdSlLi7Nc](https://youtu.be/IMLdSlLi7Nc)
+
+## Licence
+[The Unlicence](https://github.com/KanoeGitHub/removeSoundCentral-for-swift/blob/main/LICENSE)
